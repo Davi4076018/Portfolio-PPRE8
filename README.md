@@ -8,7 +8,7 @@ Descrição: este reposítorio é reservado para o portfólio da matéria de Pro
 
 A nota semestral será dada pela média das atividades avaliativas realizadas durante o período letivo: 
 
-  1. portfólio (individual);
+  1. <a href="https://github.com/Davi4076018/Portfolio-PPRE8/tree/main/3%20-%20Avalia%C3%A7%C3%A3o%20mensal%20do%20processo%20de%20ensino-aprendizagem%20(individual)">portfólio (individual);</a>
   2. pesquisas e relatórios (individual);
   3. avaliação mensal do processo de ensino-aprendizagem (individual);
   4. seminários (em grupo);
