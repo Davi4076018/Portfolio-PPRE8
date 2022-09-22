@@ -20,7 +20,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
 ## Avaliações do PEA:
 
-- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/3%20-%20Avalia%C3%A7%C3%A3o%20mensal%20do%20processo%20de%20ensino-aprendizagem%20(individual)/08-31.pdf">31/08/2022 (link)</a>
+- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/3%20-%20Avalia%C3%A7%C3%A3o%20mensal%20do%20processo%20de%20ensino-aprendizagem%20(individual)/08-31.pdf">31/08/2022 (Link)</a>
 - 30/09/2022
 - 31/10/2022
 - 30/11/2022
