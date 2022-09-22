@@ -10,7 +10,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
   1. <a href="https://github.com/Davi4076018/Portfolio-PPRE8">portfólio (individual);</a>
   2. pesquisas e relatórios (individual);
-  3. <a href="https://github.com/Davi4076018/Portfolio-PPRE8/tree/main/3%20-%20Avalia%C3%A7%C3%A3o%20mensal%20do%20processo%20de%20ensino-aprendizagem%20(individual)">avaliação mensal do processo de ensino-aprendizagem (individual);;</a>
+  3. <a href="https://github.com/Davi4076018/Portfolio-PPRE8/tree/main/3%20-%20Avalia%C3%A7%C3%A3o%20mensal%20do%20processo%20de%20ensino-aprendizagem%20(individual)">avaliação mensal do processo de ensino-aprendizagem (individual);</a>
   4. seminários (em grupo);
   5. site do projeto (em grupo);
   6. video do projeto (em grupo);
