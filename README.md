@@ -60,6 +60,8 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
 ## Requisitos e Diagrama de Classes UML
 
+</br>
+
 ### - Atividades a serem Realizadas
 
 </br>
@@ -73,7 +75,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
 </br>
 
-### Elaborar para o projeto em execução
+### Elaborar para o projeto em execução:
 
 - requisitos funcionais utilizando BDD
 - diagrama de classes: Modelo de Domínio
