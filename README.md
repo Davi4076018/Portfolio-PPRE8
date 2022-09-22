@@ -55,3 +55,25 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
 - Prévia dia 23/09
 - Entrega Final 30/09 
+
+</br>
+
+## Requisitos e Diagrama de Classes UML
+
+### - Atividades a serem Realizadas
+
+</br>
+
+### Pesquisas sobre:
+
+- definição de requisitos do usuário, do sistema, funcionais e não funcionais 
+- BDD (o que é, finalidade, quando usar, exemplo)
+- UML (o que é, para que usar, quais são os diagramas)
+- Modelo de Domínio
+
+</br>
+
+### Elaborar para o projeto em execução
+
+- requisitos funcionais utilizando BDD
+- diagrama de classes: Modelo de Domínio
