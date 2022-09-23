@@ -14,7 +14,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
   4. seminários (em grupo);
   5. site do projeto (em grupo);
   6. video do projeto (em grupo);
-  7. projeto (em grupo);
+  7. <a href="https://github.com/Davi4076018/Portfolio-PPRE8/tree/main/7%20-%20projeto%20(em%20grupo)">projeto (em grupo);</a>
   8. mapa mental (individual).
   </br>
 
