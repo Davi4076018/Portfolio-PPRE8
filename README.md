@@ -62,7 +62,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
 </br>
 
-### - Atividades a serem Realizadas
+### - Atividades a serem Realizadas:
 
 </br>
 
