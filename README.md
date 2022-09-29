@@ -14,7 +14,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
   4. seminários (em grupo);
   5. site do projeto (em grupo);
   6. video do projeto (em grupo);
-  7. projeto (em grupo);
+  7. <a href="https://github.com/Davi4076018/Portfolio-PPRE8/tree/main/7%20-%20projeto%20(em%20grupo)">projeto (em grupo);</a>
   8. mapa mental (individual).
   </br>
 
@@ -53,7 +53,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
 ### Datas para Metodologia
 
-- Prévia dia 23/09
+- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/7%20-%20projeto%20(em%20grupo)/Sensor%20de%20baixo%20custo%20para%20o%20Solo%20%20-%20Metodologia%20Pr%C3%A9via.pdf">Prévia dia 23/09</a>
 - Entrega Final 30/09 
 
 </br>
@@ -62,7 +62,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
 </br>
 
-### - Atividades a serem Realizadas
+### - Atividades a serem Realizadas:
 
 </br>
 
