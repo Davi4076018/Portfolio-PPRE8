@@ -2,6 +2,9 @@
 
 Descrição: este reposítorio é reservado para o portfólio da matéria de Projeto Integrador I
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi4076018/Portfolio-PPRE8/main/1%20-%20Portf%C3%B3lio%20(individual)/PJIE8-IMG.jpg" />
+</p>
 </br>
 
 ## Atividades Avaliativas
