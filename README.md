@@ -9,7 +9,7 @@ Descrição: este reposítorio é reservado para o portfólio da matéria de Pro
 A nota semestral será dada pela média das atividades avaliativas realizadas durante o período letivo: 
 
   1. <a href="https://github.com/Davi4076018/Portfolio-PPRE8">portfólio (individual);</a>
-  2. pesquisas e relatórios (individual);
+  2. <a href="https://github.com/Davi4076018/Portfolio-PPRE8/tree/main/2%20-%20pesquisas%20e%20relat%C3%B3rios%20(individual)">pesquisas e relatórios (individual);</a> 
   3. <a href="https://github.com/Davi4076018/Portfolio-PPRE8/tree/main/3%20-%20Avalia%C3%A7%C3%A3o%20mensal%20do%20processo%20de%20ensino-aprendizagem%20(individual)">avaliação mensal do processo de ensino-aprendizagem (individual);</a>
   4. seminários (em grupo);
   5. site do projeto (em grupo);
@@ -69,7 +69,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 ### Pesquisas sobre:
 
 - definição de requisitos do usuário, do sistema, funcionais e não funcionais 
-- BDD (o que é, finalidade, quando usar, exemplo)
+- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/2%20-%20pesquisas%20e%20relat%C3%B3rios%20(individual)/Pesquisa%20sobre%20-%20BDD%20(o%20que%20%C3%A9%2C%20finalidade%2C%20quando%20usar%2C%20exemplo)%20-%20Davi%20Alves%20da%20Costa.pdf">BDD (o que é, finalidade, quando usar, exemplo)</a> 
 - UML (o que é, para que usar, quais são os diagramas)
 - Modelo de Domínio
 
