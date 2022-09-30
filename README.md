@@ -1,4 +1,4 @@
-# Portfólio - Davi Alves da Costa - Projeto Integrador I (PPRE8)
+# Portfólio - Davi Alves da Costa - Projeto Integrador I
 
 Descrição: este reposítorio é reservado para o portfólio da matéria de Projeto Integrador I
 
