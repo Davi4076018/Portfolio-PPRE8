@@ -79,5 +79,5 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
 ### Elaborar para o projeto em execução:
 
-- requisitos funcionais utilizando BDD
+- requisitos funcionais
 - diagrama de classes: Modelo de Domínio
