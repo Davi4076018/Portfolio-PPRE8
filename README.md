@@ -23,8 +23,8 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
 ## Avaliações do PEA:
 
-- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/3%20-%20Avalia%C3%A7%C3%A3o%20mensal%20do%20processo%20de%20ensino-aprendizagem%20(individual)/08-31.pdf">31/08/2022</a>
-- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/3%20-%20Avalia%C3%A7%C3%A3o%20mensal%20do%20processo%20de%20ensino-aprendizagem%20(individual)/09-30.pdf">30/09/2022</a> 
+- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/3%20-%20Avalia%C3%A7%C3%A3o%20mensal%20do%20processo%20de%20ensino-aprendizagem%20(individual)/08-31.pdf">31/08/2022 ✅</a>
+- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/3%20-%20Avalia%C3%A7%C3%A3o%20mensal%20do%20processo%20de%20ensino-aprendizagem%20(individual)/09-30.pdf">30/09/2022 ✅</a> 
 - 31/10/2022
 - 30/11/2022
 - 09/12/2022
@@ -56,7 +56,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
 ### Datas para Metodologia
 
-- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/7%20-%20projeto%20(em%20grupo)/Sensor%20de%20baixo%20custo%20para%20o%20Solo%20%20-%20Metodologia%20Pr%C3%A9via.pdf">Prévia dia 23/09</a>
+- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/7%20-%20projeto%20(em%20grupo)/Sensor%20de%20baixo%20custo%20para%20o%20Solo%20%20-%20Metodologia%20Pr%C3%A9via.pdf">Prévia dia 23/09 ✅</a>
 - Entrega Final 30/09 
 
 </br>
@@ -72,7 +72,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 ### Pesquisas sobre:
 
 - definição de requisitos do usuário, do sistema, funcionais e não funcionais 
-- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/2%20-%20pesquisas%20e%20relat%C3%B3rios%20(individual)/Pesquisa%20sobre%20-%20BDD%20(o%20que%20%C3%A9%2C%20finalidade%2C%20quando%20usar%2C%20exemplo)%20-%20Davi%20Alves%20da%20Costa.pdf">BDD (o que é, finalidade, quando usar, exemplo)</a> 
+- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/2%20-%20pesquisas%20e%20relat%C3%B3rios%20(individual)/Pesquisa%20sobre%20-%20BDD%20(o%20que%20%C3%A9%2C%20finalidade%2C%20quando%20usar%2C%20exemplo)%20-%20Davi%20Alves%20da%20Costa.pdf">BDD (o que é, finalidade, quando usar, exemplo) ✅</a> 
 - UML (o que é, para que usar, quais são os diagramas)
 - Modelo de Domínio
 
