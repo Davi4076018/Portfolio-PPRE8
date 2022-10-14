@@ -79,5 +79,5 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
 ### Elaborar para o projeto em execução:
 
-- requisitos funcionais
+- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/7%20-%20projeto%20(em%20grupo)/Sensor%20de%20baixo%20custo%20para%20o%20Solo%20%20-%20Requisitos%20Funcionais.pdf">requisitos funcionais ✅</a> 
 - diagrama de classes: Modelo de Domínio
