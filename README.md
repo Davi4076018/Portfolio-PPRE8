@@ -25,7 +25,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
 - <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/3%20-%20Avalia%C3%A7%C3%A3o%20mensal%20do%20processo%20de%20ensino-aprendizagem%20(individual)/08-31.pdf">31/08/2022 ✅</a>
 - <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/3%20-%20Avalia%C3%A7%C3%A3o%20mensal%20do%20processo%20de%20ensino-aprendizagem%20(individual)/09-30.pdf">30/09/2022 ✅</a> 
-- 31/10/2022
+- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/3%20-%20Avalia%C3%A7%C3%A3o%20mensal%20do%20processo%20de%20ensino-aprendizagem%20(individual)/10-31.pdf">31/10/2022 ✅</a> 
 - 30/11/2022
 - 09/12/2022
 
@@ -49,7 +49,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 - objetivo
 - problema
 - revisão bibliográfica
-- metodologia
+- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/7%20-%20projeto%20(em%20grupo)/Sensor%20de%20baixo%20custo%20para%20o%20Solo%20%20-%20Metodologia%20Entrega%20Final.pdf">metodologia ✅</a> 
 - cronograma
 
 </br>
