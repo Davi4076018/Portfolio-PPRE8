@@ -18,7 +18,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
   5. site do projeto (em grupo);
   6. video do projeto (em grupo);
   7. <a href="https://github.com/Davi4076018/Portfolio-PPRE8/tree/main/7%20-%20projeto%20(em%20grupo)">projeto (em grupo);</a>
-  8. mapa mental (individual).
+  8. <a href="https://github.com/Davi4076018/Portfolio-PPRE8/tree/main/8%20-%20mapa%20mental%20(individual)">mapa mental (individual);</a> 
   </br>
 
 ## Avaliações do PEA:
@@ -35,7 +35,8 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
 </br>
 
-- 14/12/2022
+<a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/8%20-%20mapa%20mental%20(individual)/MAPA%20MENTAL%20PPRE8.png">- 14/12/2022 ✅ </a> 
+
 
 </br>
 
