@@ -51,7 +51,7 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 - <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/7%20-%20projeto%20(em%20grupo)/Documento%20do%20Projeto%20-%20Sensorde%20Baixo%20Custo%20para%20o%20Solo.pdf">problema ✅</a>  
 - <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/7%20-%20projeto%20(em%20grupo)/Documento%20do%20Projeto%20-%20Sensorde%20Baixo%20Custo%20para%20o%20Solo.pdf">revisão bibliográficaa ✅</a>  
 - <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/7%20-%20projeto%20(em%20grupo)/Sensor%20de%20baixo%20custo%20para%20o%20Solo%20%20-%20Metodologia%20Entrega%20Final.pdf">metodologia ✅</a> 
-- cronograma
+- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/7%20-%20projeto%20(em%20grupo)/Gr%C3%A1fico%20de%20%20Gantt.png">cronograma ✅</a> 
 
 </br>
 
