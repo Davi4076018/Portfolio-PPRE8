@@ -71,10 +71,11 @@ A nota semestral será dada pela média das atividades avaliativas realizadas du
 
 ### Pesquisas sobre:
 
-- definição de requisitos do usuário, do sistema, funcionais e não funcionais 
+- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/2%20-%20pesquisas%20e%20relat%C3%B3rios%20(individual)/Pesquisa%20sobre%20-%20defini%C3%A7%C3%A3o%20de%20requisitos%20do%20usu%C3%A1rio%2C%20do%20sistema%2C%20funcionais%20e%20n%C3%A3o%20funcionais%20-%20Davi%20Alves%20da%20Costa.pdf">definição de requisitos do usuário, do sistema, funcionais e não funcionais  ✅</a> 
 - <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/2%20-%20pesquisas%20e%20relat%C3%B3rios%20(individual)/Pesquisa%20sobre%20-%20BDD%20(o%20que%20%C3%A9%2C%20finalidade%2C%20quando%20usar%2C%20exemplo)%20-%20Davi%20Alves%20da%20Costa.pdf">BDD (o que é, finalidade, quando usar, exemplo) ✅</a> 
-- UML (o que é, para que usar, quais são os diagramas)
-- Modelo de Domínio
+- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/2%20-%20pesquisas%20e%20relat%C3%B3rios%20(individual)/Pesquisa%20sobre%20-%20UML%20(o%20que%20%C3%A9%2C%20para%20que%20usar%2C%20quais%20s%C3%A3o%20os%20diagramas)%20-%20Davi%20Alves%20da%20Costa.pdf">UML (o que é, para que usar, quais são os diagramas) ✅</a> 
+- <a href="https://github.com/Davi4076018/Portfolio-PPRE8/blob/main/2%20-%20pesquisas%20e%20relat%C3%B3rios%20(individual)/Pesquisa%20sobre%20-%20Modelo%20de%20Dom%C3%ADnio%20-%20Davi%20Alves%20da%20Costa.pdf">Modelo de Domínio ✅</a> 
+
 
 </br>
 
